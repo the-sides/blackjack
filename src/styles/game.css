@@ -1,0 +1,23 @@
+
+main {
+    background-color: #e5e5f7;
+    opacity: 1;
+    background-image:  radial-gradient(#444cf7 1.2000000000000002px, transparent 1.2000000000000002px), radial-gradient(#444cf7 1.2000000000000002px, #e5e5f7 1.2000000000000002px);
+    background-size: 48px 48px;
+    background-position: 0 0,24px 24px;
+}
+
+
+button {
+    border-radius: 8px;
+    padding: 10px 24px;
+    background-color: #00cda0;
+    color: white;
+}
+
+button:hover {
+    background-color: #00c29b;
+}
+button:active {
+    background-color: #00b38f;
+}
